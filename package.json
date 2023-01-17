@@ -1,0 +1,24 @@
+{
+    "name": "learning-nodejs",
+    "version": "1.0.0",
+    "description": "Learning Repository for NodeJS",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VasilKrumov/learning-nodejs.git"
+    },
+    "keywords": [],
+    "author": "Vasil Krumov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/VasilKrumov/learning-nodejs/issues"
+    },
+    "homepage": "https://github.com/VasilKrumov/learning-nodejs#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
