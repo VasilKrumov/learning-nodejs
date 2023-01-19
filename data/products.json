@@ -1,9 +1,1 @@
-[
-    {
-        "id": "12345",
-        "title": "A Book",
-        "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
-        "description": "This is an awesome book!",
-        "price": "19"
-    }
-]
+[{"id":"12345","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"AwesomeO","imageUrl":"https://static.wikia.nocookie.net/southpark/images/f/f4/Awesomo-4000.png/revision/latest?cb=20170805024007","description":"Awesome","price":"2000","id":"0.06285283862989055"}]
